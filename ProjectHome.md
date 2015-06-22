@@ -1,0 +1,1 @@
+Ultra simple implementation of back-propagation artificial neural networks in python to recognize optical characters in images.
